@@ -34,17 +34,6 @@
   <!-- Add more languages and tools icons as needed -->
 </p>
 
-#### Additional Features:
-- Projects Showcase
-- Skills Highlight
-- Experience
-- Education
-- Open Source Contributions
-- Contact Information
-- Blog or Portfolio Links
-- Awards and Achievements
-- Certifications
-- Interests or Hobbies
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shuvo-uwu&show_icons=true&locale=en" alt="shuvo-uwu" />
