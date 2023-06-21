@@ -19,9 +19,9 @@
 </p>
 
 #### About Me:
-- Full Stack Web Developer
+- Learning Full Stack Web Development
 - Passionate about creating meaningful and innovative web applications
-- Constantly learning and exploring new technologies
+- Constantly exploring and acquiring new skills in web development
 
 #### Languages and Tools:
 <p align="center">
